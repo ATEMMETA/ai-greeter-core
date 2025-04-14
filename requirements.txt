@@ -1,1 +1,6 @@
-
+opencv-python
+mediapipe
+numpy
+python-dotenv
+requests
+google-cloud-texttospeech
